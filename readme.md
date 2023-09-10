@@ -1,6 +1,6 @@
-# Sympto Tracker
+# Symptom Analyzer
 
-Sympto-Tracker is a web application that allows users to track their symptoms and predict the likelihood of developing certain diseases. The application is built using React, Flask, and RStudio, and currently supports the prediction of the following diseases:
+Symptom Analyzer is a web application that allows users to track their symptoms and predict the likelihood of developing certain diseases. The application is built using React, Flask, and RStudio, and currently supports the prediction of the following diseases:
 
 - Liver Cirrhosis
 - Mesothelioma
@@ -16,7 +16,7 @@ For predicting the disease diagnosis we used Supervised Binary classification Ma
 
 ## Live Demo
 
-Check out the live demo of Sympto Tracker [Preview](https://sympto-tracker.vercel.app/).
+Check out the live demo of Symptom Analyzer [Preview](https://sympto-tracker.vercel.app/).
 
 ## Tech Stack
 
@@ -27,7 +27,7 @@ Check out the live demo of Sympto Tracker [Preview](https://sympto-tracker.verce
 
 ## Pages
 
-The following screens are available in Sympto Tracker:
+The following screens are available in Symptom Analyzer:
 
 ### Home Page
 
@@ -101,8 +101,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Sympto-Tracker was developed by:
 
 - [Aniket Kumar](https://github.com/ak736)
-- [Anto Vimalan](https://github.com/vimalds15)
-- [Prawin RP](https://github.com/PRAWIN392)
-- [Harshit V](https://github.com/harshitv804)
 
 If you have any questions or feedback, please reach out to [aniketkir63@gmail.com].
