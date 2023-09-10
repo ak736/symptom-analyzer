@@ -68,7 +68,7 @@ To run the application, you will need to have Node.js, Python 3, and R installed
 
 1. Clone the repository:
 
-   git clone https://github.com/ak736/sympto-tracker.git
+   git clone https://github.com/ak736/symptom-analyzer.git
 
 2. Install the dependencies for the frontend and backend:
 
