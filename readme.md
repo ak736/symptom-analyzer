@@ -90,7 +90,7 @@ To run the application, you will need to have Node.js, Python 3, and R installed
 
 ## Usage
 
-To use Sympto-Tracker, simply enter your symptoms into the form on the home page and click "Predict". The application will use machine learning algorithms to predict the likelihood of developing each of the supported diseases based on your symptoms.
+To use Symptom-Analyzer, simply enter your symptoms into the form on the home page and click "Predict". The application will use machine learning algorithms to predict the likelihood of developing each of the supported diseases based on your symptoms.
 
 ## Contributing
 
@@ -98,7 +98,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Credits
 
-Sympto-Tracker was developed by:
+Symptom-Analyzer was developed by:
 
 - [Aniket Kumar](https://github.com/ak736)
 
